@@ -7,16 +7,93 @@ uid: c6cdcb0c-09c0-153f-c716-fe716ce92940
 2004 Homeworks
 --------------
 
-| Assignments | Solutions |
-| --- | --- |
-| Homework 1 ([PDF]({{< baseurl >}}/resources/hw1-1)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps1_soln)) |
-| Homework 2 ([PDF]({{< baseurl >}}/resources/hw2-1)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps2_soln)) |
-| Homework 3 ([PDF]({{< baseurl >}}/resources/hw3-1)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps3_soln)) |
-| Homework 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw4-1)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps4_soln)) |
-| Homework 5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw5-1)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps5_soln)) |
-| Homework 6 ([PDF]({{< baseurl >}}/resources/hw6-1)) | ([PDF]({{< baseurl >}}/resources/ps6_soln)) |
-| Homework 7 ([PDF]({{< baseurl >}}/resources/hw7-1)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps7_soln)) |
-| Homework 8 ([PDF]({{< baseurl >}}/resources/hw8-1)) | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps8_soln)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignments
+{{< thclose >}}
+{{< thopen >}}
+Solutions
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 1 ([PDF]({{< baseurl >}}/resources/hw1-1))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps1_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 2 ([PDF]({{< baseurl >}}/resources/hw2-1))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps2_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 3 ([PDF]({{< baseurl >}}/resources/hw3-1))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps3_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw4-1))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps4_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw5-1))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps5_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 6 ([PDF]({{< baseurl >}}/resources/hw6-1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps6_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 7 ([PDF]({{< baseurl >}}/resources/hw7-1))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps7_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 8 ([PDF]({{< baseurl >}}/resources/hw8-1))
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps8_soln))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 2004 Exams
 ----------
