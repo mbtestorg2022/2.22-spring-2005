@@ -22,7 +22,7 @@ Solutions
 Homework 1 ([PDF]({{< baseurl >}}/resources/hw1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw1_soln))
+([PDF]({{< baseurl >}}/resources/hw1_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +31,7 @@ Homework 1 ([PDF]({{< baseurl >}}/resources/hw1))
 Homework 2 ([PDF]({{< baseurl >}}/resources/hw2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw2_soln))
+([PDF]({{< baseurl >}}/resources/hw2_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +40,7 @@ Homework 2 ([PDF]({{< baseurl >}}/resources/hw2))
 Homework 3 ([PDF]({{< baseurl >}}/resources/hw3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw3_soln))
+([PDF]({{< baseurl >}}/resources/hw3_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ Homework 3 ([PDF]({{< baseurl >}}/resources/hw3))
 Homework 4 ([PDF]({{< baseurl >}}/resources/hw4))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw4_soln))
+([PDF]({{< baseurl >}}/resources/hw4_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +58,7 @@ Homework 4 ([PDF]({{< baseurl >}}/resources/hw4))
 Homework 5 ([PDF]({{< baseurl >}}/resources/hw5))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw5_soln))
+([PDF]({{< baseurl >}}/resources/hw5_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ Homework 5 ([PDF]({{< baseurl >}}/resources/hw5))
 Homework 6 ([PDF]({{< baseurl >}}/resources/hw6))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw6_soln))
+([PDF]({{< baseurl >}}/resources/hw6_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +76,7 @@ Homework 6 ([PDF]({{< baseurl >}}/resources/hw6))
 Homework 7 ([PDF]({{< baseurl >}}/resources/hw7))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw7_soln))
+([PDF]({{< baseurl >}}/resources/hw7_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +85,7 @@ Homework 7 ([PDF]({{< baseurl >}}/resources/hw7))
 Homework 8 ([PDF]({{< baseurl >}}/resources/hw8))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB]({{< baseurl >}}/resources/hw8_soln))
+([PDF - 1.5 MB]({{< baseurl >}}/resources/hw8_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +94,7 @@ Homework 8 ([PDF]({{< baseurl >}}/resources/hw8))
 Homework 9 ([PDF]({{< baseurl >}}/resources/hw9))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw9_soln))
+([PDF]({{< baseurl >}}/resources/hw9_soln))
 {{< tdclose >}}
 
 {{< trclose >}}

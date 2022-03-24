@@ -25,7 +25,7 @@ Solutions
 Homework 1 ([PDF]({{< baseurl >}}/resources/hw1-1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps1_soln))
+([PDF]({{< baseurl >}}/resources/ps1_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +34,7 @@ Homework 1 ([PDF]({{< baseurl >}}/resources/hw1-1))
 Homework 2 ([PDF]({{< baseurl >}}/resources/hw2-1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps2_soln))
+([PDF]({{< baseurl >}}/resources/ps2_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,25 +43,25 @@ Homework 2 ([PDF]({{< baseurl >}}/resources/hw2-1))
 Homework 3 ([PDF]({{< baseurl >}}/resources/hw3-1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps3_soln))
+([PDF]({{< baseurl >}}/resources/ps3_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw4-1))
+Homework 4 ([PDF]({{< baseurl >}}/resources/hw4-1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps4_soln))
+([PDF]({{< baseurl >}}/resources/ps4_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/hw5-1))
+Homework 5 ([PDF]({{< baseurl >}}/resources/hw5-1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps5_soln))
+([PDF]({{< baseurl >}}/resources/ps5_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ Homework 6 ([PDF]({{< baseurl >}}/resources/hw6-1))
 Homework 7 ([PDF]({{< baseurl >}}/resources/hw7-1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps7_soln))
+([PDF]({{< baseurl >}}/resources/ps7_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ Homework 7 ([PDF]({{< baseurl >}}/resources/hw7-1))
 Homework 8 ([PDF]({{< baseurl >}}/resources/hw8-1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps8_soln))
+([PDF]({{< baseurl >}}/resources/ps8_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +100,7 @@ Homework 8 ([PDF]({{< baseurl >}}/resources/hw8-1))
 
 2004 Exam 1 ([PDF]({{< baseurl >}}/resources/exam1_2004))
 
-2004 Exam 1 Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/exam1_2004soln))
+2004 Exam 1 Solutions ([PDF]({{< baseurl >}}/resources/exam1_2004soln))
 
 2004 Exam 2 ([PDF]({{< baseurl >}}/resources/exam2_2004))
 

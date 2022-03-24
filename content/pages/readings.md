@@ -290,7 +290,7 @@ Natural Frequency/Natural Periods
 {{< tdopen >}}
 
 
-Seakeeping Roll and Pitch (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/r12_seakeep_rp))
+Seakeeping Roll and Pitch ([PDF]({{< baseurl >}}/resources/r12_seakeep_rp))
 
 Morrison's Equation ([PDF]({{< baseurl >}}/resources/r13_morrison))
 
@@ -306,7 +306,7 @@ Morrison's Equation ([PDF]({{< baseurl >}}/resources/r13_morrison))
 Ship Motion in Roll, Roll Damping
 {{< tdclose >}}
 {{< tdopen >}}
-Roll Damping (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/r14_rolldamping))
+Roll Damping ([PDF]({{< baseurl >}}/resources/r14_rolldamping))
 {{< tdclose >}}
 
 {{< trclose >}}
