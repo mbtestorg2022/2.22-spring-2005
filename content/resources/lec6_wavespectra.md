@@ -8,6 +8,7 @@ description: This resource describes Ocean wave generation. It contains World Me
   heights.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/264591d7a2eb97235cedf3c42afc1d56_lec6_wavespectra.pdf
 file_type: application/pdf
+parent_uid: 205a85f4-3228-ece0-e6ee-40016dde715f
 resourcetype: Document
 title: lec6_wavespectra.pdf
 uid: 264591d7-a2eb-9723-5ced-f3c42afc1d56

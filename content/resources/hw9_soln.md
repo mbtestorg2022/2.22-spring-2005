@@ -5,6 +5,7 @@ description: This resource contains solutions to the 3 problems on various opera
   cycle), center of force along the height cylinder.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/dfa2851b8aee4fb0f23ab80a7a11131f_hw9_soln.pdf
 file_type: application/pdf
+parent_uid: 3774f0bf-1893-60bf-37c6-5432279abc2e
 resourcetype: Document
 title: hw9_soln.pdf
 uid: dfa2851b-8aee-4fb0-f23a-b80a7a11131f

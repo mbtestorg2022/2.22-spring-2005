@@ -6,6 +6,7 @@ description: This resource contains solutions to the 2 problems on added mass an
   of the buoy in heave.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/d63eaa9718dfc2cf1a6eaea13e15e489_hw8_soln.pdf
 file_type: application/pdf
+parent_uid: 3774f0bf-1893-60bf-37c6-5432279abc2e
 resourcetype: Document
 title: hw8_soln.pdf
 uid: d63eaa97-18df-c2cf-1a6e-aea13e15e489

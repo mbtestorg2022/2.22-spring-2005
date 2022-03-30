@@ -6,6 +6,7 @@ description: This resource contains 2 problems on added mass and damping coeffic
   heave.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/46a82485673adec54c4e4b39c1e10f3c_hw8.pdf
 file_type: application/pdf
+parent_uid: 3774f0bf-1893-60bf-37c6-5432279abc2e
 resourcetype: Document
 title: hw8.pdf
 uid: 46a82485-673a-dec5-4c4e-4b39c1e10f3c

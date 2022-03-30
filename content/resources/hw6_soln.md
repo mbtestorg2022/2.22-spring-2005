@@ -4,6 +4,7 @@ description: This resource contains solutions to the 6 problems on ocean waves, 
   spectrum, laboratory experiments, frequency and encounter frequency.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/59e3cbaec8e77726b3a89d2361848828_hw6_soln.pdf
 file_type: application/pdf
+parent_uid: 3774f0bf-1893-60bf-37c6-5432279abc2e
 resourcetype: Document
 title: hw6_soln.pdf
 uid: 59e3cbae-c8e7-7726-b3a8-9d2361848828

@@ -4,6 +4,7 @@ description: This resource contains solutions to the 3 problems on discrete spec
   of unidirectional seas in deep water, continuous sea spectrum, and ship in heave.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/de32d6adb6dab24e0bc3053484dd4c68_hw5_soln.pdf
 file_type: application/pdf
+parent_uid: 3774f0bf-1893-60bf-37c6-5432279abc2e
 resourcetype: Document
 title: hw5_soln.pdf
 uid: de32d6ad-b6da-b24e-0bc3-053484dd4c68

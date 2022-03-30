@@ -5,6 +5,7 @@ description: 'This resource covers the following topics: Dynamical systems, find
   references.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/fea036f3255fa4824279668c7ff8c6cd_r1_lti.pdf
 file_type: application/pdf
+parent_uid: 205a85f4-3228-ece0-e6ee-40016dde715f
 resourcetype: Document
 title: r1_lti.pdf
 uid: fea036f3-255f-a482-4279-668c7ff8c6cd
